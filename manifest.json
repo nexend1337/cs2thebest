@@ -1,0 +1,35 @@
+{
+    "name": "ArtexGame",
+    "short_name": "ArtexGame",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "description": "ARTEX - Создай свой мир в Counter-Strike 2. Наши игровые серверы предлагают разнообразные режимы, включая Public, MiniGame, Awp. Погрузитесь в захватывающий мир Counter-Strike 2 и играйте в свои любимые режимы с нами.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
