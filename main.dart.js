@@ -44766,7 +44766,7 @@ K(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=f.e
 d===$&&A.b()
 if(d===B.n){A.bN()
 d=4279374354}else{A.bS()
-d=4292730333}A.zQ(new A.uT("ArtexGame | Main",d))
+d=4292730333}A.zQ(new A.uT("Xspiel | Main",d))
 if(f.e===B.n){A.bN()
 d=B.cG}else{A.bS()
 d=B.h1}s=f.d
