@@ -43390,7 +43390,7 @@ A.bN()
 s=A.asW(B.cG,p,B.cG,p)
 r=this.c
 q=this.d
-return new A.tn(A.a([A.ath("/",new A.wA(r,q,p)),A.ath("/news/:id",new A.xI(r,q,p))],t.C),B.v,B.wM,"ArtexGame",s,!1,$,p)}}
+return new A.tn(A.a([A.ath("/",new A.wA(r,q,p)),A.ath("/news/:id",new A.xI(r,q,p))],t.C),B.v,B.wM,"Xspiel",s,!1,$,p)}}
 A.qc.prototype={
 a5(){return new A.Oc(B.k)}}
 A.Oc.prototype={
@@ -44962,7 +44962,7 @@ K(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=k.e
 i===$&&A.b()
 if(i===B.n){A.bN()
 i=4279374354}else{A.bS()
-i=4292730333}A.zQ(new A.uT("ArtexGame | News",i))
+i=4292730333}A.zQ(new A.uT("Xspiel | News",i))
 k.w.u(0,A.abj(a).gPi().j(0,"id"))
 if(k.e===B.n){A.bN()
 i=B.cG}else{A.bS()
